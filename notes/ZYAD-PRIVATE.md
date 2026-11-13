@@ -12,7 +12,7 @@
 - **His exact age or birthday.** He is 17 and turns 18 on 1 January 2027. Say "Grade 12" or "high school senior", never "18".
 - **Where his family is from.** Even though Canoegy's name blends Canada and Egypt, and his favourite sea is the Red Sea at Hurghada, don't say it. He called it an attack vector.
 - **Religion,** including that the Empower Hackathon was run by his mosque.
-- **His nickname,** Zizo or Zizzo, from his parents.
+- **His nickname** (Zizo, from his parents) is **fine in the web address or brand** (Zyad, 13 November: "nickname is fine"). Just don't explain where it comes from.
 - **The CAF co-op.** From his other AI's notes: he asked that it stay confidential.
 - **Private people:** his girlfriend, family details, coworkers' names, students' names.
 - **Client infrastructure specifics** (Vault on EKS, IAM, Secrets Manager, Action1 and so on). Describe them only in general terms, like "cloud and security work on AWS and Azure".

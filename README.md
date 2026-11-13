@@ -12,5 +12,5 @@ Everything about Zyad that his agents need, and none of it public.
 
 **Rules:**
 - **The website** is `zizocreates/portfolio` (private, served by Cloudflare). Never copy anything from here into it except the finished site copy he approves.
-- **Never mention on the site:** his exact age or birthday, where his family is from, his religion, his nickname, the CAF co-op, or private people.
+- **Never mention on the site:** his exact age or birthday, where his family is from, his religion, the CAF co-op, or private people. (His nickname Zizo is fine in the web address or brand.)
 - **Certificates and awards** are listed without dates unless the date matters.

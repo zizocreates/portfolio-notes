@@ -16,7 +16,7 @@ The single source of facts about Zyad for any agent working on this site. **Read
 |---|---|
 | Name | Zyad Hossameldien |
 | Age | **Don't state it.** Say "Grade 12" or "high school senior". |
-| Lives in | Kanata, Ontario (Ottawa). Don't say where his family is from, or mention religion or his nickname. |
+| Lives in | Kanata, Ontario (Ottawa). Don't say where his family is from or mention religion. His nickname (Zizo) is fine in the web address or brand. |
 | School | Earl of March Secondary School, Grade 12. 97% average, 95%+ every year, never under 90 in high school, 100% in Grade 12 Computer Engineering. Honour certificates (80%+ and 90%+) every year. Diploma expected June 2027. |
 | Applying to | Fall 2027, with co-op: Waterloo Software Engineering (first choice) and Computer Science; uOttawa Software Engineering; Carleton Computer Science with co-op (for the Shopify Dev Degree); Queen's Computer Engineering. MIT is the childhood dream. Early offers from uOttawa and Carleton, each with its top entrance scholarship. |
 | Schools on the site | University of Waterloo, MIT, Queen's, University of Ottawa, Carleton |
