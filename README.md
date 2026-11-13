@@ -9,6 +9,7 @@ Everything about Zyad that his agents need, and none of it public.
 | `notes/QUESTIONNAIRE.md` | The questions he was asked (answers live in the private notes). |
 | `projects/HOW-TO.md` | How he hands over project files, and the list of projects. |
 | `projects/<name>/` | One folder per project: README, code, slides, photos, videos. |
+| `archive/` | A full, verified backup of the deleted old repository (`zizocreates.github.io`), with every version of the site. |
 
 **Rules:**
 - **The website** is `zizocreates/portfolio` (private, served by Cloudflare). Never copy anything from here into it except the finished site copy he approves.
