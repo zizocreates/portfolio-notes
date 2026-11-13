@@ -159,7 +159,7 @@ Zyad answered most of the questionnaire on 13 November 2026. His full answers ar
   - the hello video (he'll record it later);
   - a photo of him, ideally near water;
   - project photos and screenshots.
-- **Projects:** coming through a private `zizocreates/project-files` repository (see `PROJECTS-HOWTO.md`).
+- **Projects:** coming into `projects/` in this repository (see `projects/HOW-TO.md`).
 - **Links:**
   - the Canoegy website;
   - a public email (on hold; he may buy a domain first).

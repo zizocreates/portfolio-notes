@@ -2,8 +2,8 @@
 
 **PRIVATE. It lives only in the private `portfolio-notes` repository. Never copy it into the website repository, never paste it into the site, never share it.** It holds everything Zyad has said about himself (12 to 13 November 2026), so his agents can write the website, his LinkedIn, his resume and his scholarship applications without asking twice.
 
-- **The public, site-safe version** is `ABOUT-ZYAD.md` in the repo.
-- **This file** sits in the repo's `PRIVATE/` folder, which `.gitignore` keeps out of git, and Zyad keeps his own copy. The cloud container that made it gets deleted, so his copy is the one that counts.
+- **The site-safe version** is `notes/ABOUT-ZYAD.md`, next to this file.
+- **This file** lives in the private `zizocreates/portfolio-notes` repository, and Zyad keeps his own copy. Never copy it into the website repository (`zizocreates/portfolio`).
 
 ---
 
@@ -450,7 +450,7 @@
 
 ## 14. Remind Zyad (things he said he'd send)
 
-- [ ] The full project list via the private `project-files` repository (see `PROJECTS-HOWTO.md`), (the Merita DECA summary has arrived), including PayProof, the autonomous fan, the aviation museum drone, Reservoir, ChessAnywhere, Stock Overflow, ORCH and the DECA tutor.
+- [ ] The full project list into `projects/` in this repository (see `projects/HOW-TO.md`), (the Merita DECA summary has arrived), including PayProof, the autonomous fan, the aviation museum drone, Reservoir, ChessAnywhere, Stock Overflow, ORCH and the DECA tutor.
 - [x] His crypto essay: received 13 November (section 13b).
 - [ ] His failure or setback story. (The crypto essay may be it; ask whether he has another.)
 - [x] His finance and trading era: received (section 13b). Confirm the year.
